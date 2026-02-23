@@ -1,0 +1,8 @@
+2025-10-13 08:13:59 - Deleted Student: Eunice Soko | Student ID: ST001 | Email: eunicesk@g
+2025-10-18 13:40:15 - Deleted Student: Manel Kwazi | Student ID: ST006 | Email: manel@gmail.com
+2025-10-20 07:42:22 - Deleted Student: Manel Kwazi | Student ID: ST006 | Email: manel@gmail.com
+2025-10-20 07:44:03 - Deleted Student: Manel Kwazi | Student ID: ST006 | Email: manel@gmail.com
+2025-10-22 10:02:02 - Deleted Student: Carol Valion | Student ID: ST009 | Email: Carolv20@gmail.com
+2025-10-22 10:15:47 - Deleted Student: Billy Mafeni | Student ID: ST007 | Email: billyM3@gmail.com
+2025-10-22 11:32:35 - Deleted Student: Carol Valion | Student ID: ST0010 | Email: carol20@gmail.com
+2025-10-22 11:48:51 - Deleted Student: Carol Valion | Student ID: ST0012 | Email: carolV@gmail.com
